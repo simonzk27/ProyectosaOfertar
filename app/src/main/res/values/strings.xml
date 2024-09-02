@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Proyectos a ofertar</string>
+    <string name="trabajo_encontrado">Encuentre trabajo!</string>
+    <string name="brands">Trabajo no seleccionado</string>
+
+    <string-array name="Trabajos_disponibles">
+        <item>infraestructura </item>
+        <item>recreación</item>
+        <item>Diseño Web</item>
+        <item>Proyectos de Ingeniería</item>
+    </string-array>
+
+</resources>
